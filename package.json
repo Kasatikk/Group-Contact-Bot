@@ -1,0 +1,22 @@
+{
+  "name": "contact",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": {
+    "name": "nardana",
+    "url": "https://github.com/nrdxn"
+  },
+  "module": "src/main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2",
+    "prettier": "^3.5.3",
+    "telegraf": "^4.16.3"
+  }
+}
