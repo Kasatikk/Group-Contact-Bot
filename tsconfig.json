@@ -27,7 +27,8 @@
           "./src/Core/Database/*"
         ],
         "@core/*": [
-          "./src/Core/*"
+          "./src/Core/*" 
+            
         ],
       }
     }
